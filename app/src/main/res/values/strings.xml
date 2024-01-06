@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shakeodynka</string>
+    <string name="shake_info">Potrząśnij telefonem, aby zobaczyć pogodę losowej lokalizacji na świecie!</string>
+    <string name="api_error">Mamy chwilowy problem z pobraniem wszystkich danych, spróbuj ponownie za chwilę!</string>
+</resources>

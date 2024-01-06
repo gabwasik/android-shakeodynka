@@ -1,0 +1,14 @@
+<resources>
+    <style name="Base.Theme.Shakeodynka" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+        <item name="android:windowBackground">@color/colorPrimary</item>
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Theme.Shakeodynka" parent="Base.Theme.Shakeodynka" />
+</resources>
